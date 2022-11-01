@@ -1,0 +1,9 @@
+{
+	"name": "LiveStreamData",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2acf732c-b31f-4ca0-83dd-d69d9812e192",
+		"tenantId": "9177515a-4b26-41e7-bbb3-b0ca193140f3"
+	}
+}
